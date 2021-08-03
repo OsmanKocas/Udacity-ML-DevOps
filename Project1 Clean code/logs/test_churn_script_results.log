@@ -1,0 +1,49 @@
+root - INFO - Data loaded from ./data/bank_data.csv : SUCCESS
+root - INFO - Testing import_data: SUCCESS
+root - INFO - Data loaded from ./data/bank_data.csv : SUCCESS
+root - INFO - Create Churn label SUCCESSFULLY
+root - INFO - Created encoded feature for Gender SUCCESSFULLY
+root - INFO - Created encoded feature for Education_Level SUCCESSFULLY
+root - INFO - Created encoded feature for Marital_Status SUCCESSFULLY
+root - INFO - Created encoded feature for Income_Category SUCCESSFULLY
+root - INFO - Created encoded feature for Card_Category SUCCESSFULLY
+root - INFO - Testing encoder_helper: Encoding for Gender is SUCCESSFUL
+root - INFO - Testing encoder_helper: Encoding for Education_Level is SUCCESSFUL
+root - INFO - Testing encoder_helper: Encoding for Marital_Status is SUCCESSFUL
+root - INFO - Testing encoder_helper: Encoding for Income_Category is SUCCESSFUL
+root - INFO - Testing encoder_helper: Encoding for Card_Category is SUCCESSFUL
+root - INFO - Create Churn label SUCCESSFULLY
+root - INFO - Created encoded feature for Gender SUCCESSFULLY
+root - INFO - Created encoded feature for Education_Level SUCCESSFULLY
+root - INFO - Created encoded feature for Marital_Status SUCCESSFULLY
+root - INFO - Created encoded feature for Income_Category SUCCESSFULLY
+root - INFO - Created encoded feature for Card_Category SUCCESSFULLY
+root - INFO - Testing perform_eda: churn_distribution is created: SUCCESS
+root - INFO - Testing perform_eda function: SUCCESS
+root - INFO - Testing perform_eda: marital_status_distribution is created: SUCCESS
+root - INFO - Testing perform_eda function: SUCCESS
+root - INFO - Testing perform_eda: customer_age_distribution is created: SUCCESS
+root - INFO - Testing perform_eda function: SUCCESS
+root - INFO - Testing perform_eda: total_transaction_distribution is created: SUCCESS
+root - INFO - Testing perform_eda function: SUCCESS
+root - INFO - Testing perform_eda: heatmap is created: SUCCESS
+root - INFO - Testing perform_eda function: SUCCESS
+root - INFO - Create Churn label SUCCESSFULLY
+root - INFO - Created encoded feature for Gender SUCCESSFULLY
+root - INFO - Created encoded feature for Education_Level SUCCESSFULLY
+root - INFO - Created encoded feature for Marital_Status SUCCESSFULLY
+root - INFO - Created encoded feature for Income_Category SUCCESSFULLY
+root - INFO - Created encoded feature for Card_Category SUCCESSFULLY
+root - INFO - Testing perform_feature_engineering: Churn is created SUCCESSFULLY
+root - INFO - Testing perform_feature_engineering: Churn is binary
+root - INFO - Testing perform_feature_engineering: Train, test split is SUCCESSUL
+root - INFO - Testing perform_feature_engineering: Train, test split is SUCCESSUL
+root - INFO - Testing perform_feature_engineering: Train, test split is SUCCESSUL
+root - INFO - Testing perform_feature_engineering: Train, test split is SUCCESSUL
+root - INFO - Create Churn label SUCCESSFULLY
+root - INFO - Created encoded feature for Gender SUCCESSFULLY
+root - INFO - Created encoded feature for Education_Level SUCCESSFULLY
+root - INFO - Created encoded feature for Marital_Status SUCCESSFULLY
+root - INFO - Created encoded feature for Income_Category SUCCESSFULLY
+root - INFO - Created encoded feature for Card_Category SUCCESSFULLY
+root - INFO - Testing train_models: Models are trained and saved SUCCESSFULLY

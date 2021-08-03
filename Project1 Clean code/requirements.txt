@@ -1,0 +1,9 @@
+scikit-learn==0.22 
+shap
+pylint
+autopep8
+pandas
+matplotlib
+seaborn
+joblib
+numpy
