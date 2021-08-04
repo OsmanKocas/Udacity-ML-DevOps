@@ -1,2 +1,2 @@
 # UdacityMLOps
-Projects for Udacity ML-Ops
+This repository will contain my project files for Udacity ML DevOps Nanodegree.
